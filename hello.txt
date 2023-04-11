@@ -1,1 +1,2 @@
-Hello Artifactory and Sonar
+ello Artifactory and Sonar
+khushal sharma motherson training
